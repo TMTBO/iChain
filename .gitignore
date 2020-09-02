@@ -1,0 +1,16 @@
+xcsharedata/
+xcuserdata/
+*.xcscmblueprint
+*.xcworkspacedata
+
+# Cocoapods
+Pods/
+
+# AppCode
+.idea/
+
+*.xcscheme
+DerivedData
+
+# R.swift
+*.generated.swift
