@@ -22,7 +22,7 @@ pod 'iChain'
 
 ## Author
 
-tmtbo@hotmail.com, wujie@lizhi.fm
+tmtbo@hotmail.com
 
 ## License
 
